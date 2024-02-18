@@ -1,0 +1,3 @@
+Clothing: Product ID: 1234, Product Name: tshirt, Price: 1500.0, Size: L, Color: black
+Electronics: Product ID: 11122, Product Name: phone, Price: 69000.0, Warranty: 16.0 months, Brand: nokia
+Clothing: Product ID: 112222, Product Name: cap, Price: 1000.0, Size: S, Color: blue
